@@ -5,3 +5,5 @@
 # 27/01/2025 04:22. Se creó el archivo streamlit/config.toml
 
 # 27/01/2025 05:07 Se modificó app.py y se corrigió el error de que no se pueden mostrar las dos gráficas al mismo tiempo
+
+# enlace del render https://proyecto-tt.onrender.com/
